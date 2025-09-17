@@ -1,2 +1,4 @@
 "Merhaba - ilk repo" 
 "Bugn branch a‡may ve commit etmeyi ”§rendim." 
+"Bugn branch a‡may ve commit etmeyi ”§rendim." 
+"Bugn branch a‡may ve commit etmeyi ”§rendim." 
